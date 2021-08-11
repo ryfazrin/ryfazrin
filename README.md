@@ -15,7 +15,8 @@ I like all of this. ❤
 
 📫 How to reach me? send email to riansera515@gmail.com
 
-[![ryfazrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryfazrin&show_icons=true)](https://github.com/ryfazrin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryfazrin&layout=compact&hide_border=true&hide=html&langs_count=7&hide_title=true)](https://github.com/ryfazrin)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ryfazrin&hide_border=true&show_icons=true&hide=contribs&include_all_commits=true&line_height=24&hide_title=true)](https://github.com/ryfazrin)
 
  𝚘𝚗𝚐𝚘𝚒𝚗𝚐...
 
