@@ -9,13 +9,11 @@ I'm Muhammad Pazrin Andreanor.
 
 I like all of this. ❤
 
-try to "finish what you started."
+- 🙌 PHP, JavaScript, Java, Kotlin, Dart
+- 🍟 Codeigniter, Laravel, React, TypeScript, Flutter
+- 🍔 Tailwindcss, Material-Design
 
-🙌 PHP, JS, Java, Kotlin, Dart
-
-🍟 Codeigniter, Laravel, React, TypeScript, Flutter
-
-🍔 Tailwindcss, Material-Design
+📫 How to reach me? send email to riansera515@gmail.com
 
 [![ryfazrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryfazrin&show_icons=true)](https://github.com/ryfazrin)
 
