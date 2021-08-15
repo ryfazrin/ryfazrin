@@ -5,7 +5,7 @@ I'm Muhammad Pazrin Andreanor.
 
 ⚡ tried the front-end framework, I really like the JavaScript syntax especially Reactjs. React is easy to read and easy to understand for me.
 
-🤔 I'm trying to do a little bit of trouble in the native app section 😄. It amazed me. Java which is transformed into kotlin without a semicolon, it presents shortcodes. or Flutter with simple and easy UI writing for multiplatform.
+🤔 I'm trying to do a little bit of trouble in the native app section. It amazing for me😄. Java which is transformed into kotlin without a semicolon, it presents shortcodes. or Flutter with simple and easy UI writing for multiplatform.
 
 I like all of this. ❤
 
