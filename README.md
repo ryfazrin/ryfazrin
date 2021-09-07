@@ -16,7 +16,7 @@ I like all of this. ❤
 <!-- <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" height="15"> -->
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25) -->
 
-- 🙌 JavaScript, Java, Kotlin, Dart, TypeScript, PHP
+- 🙌 PHP, JavaScript, Java, Kotlin, Dart, TypeScript
 - 🍟 React, Flutter, Codeigniter, Laravel
 - 🍔 Tailwindcss, Material-Design
 
