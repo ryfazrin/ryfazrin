@@ -5,13 +5,13 @@
 
 Muhammad Pazrin Andreanor.
 
-🌱 I started programming using php. Typing something in front of the computer makes me addicted to doing it. I used to be a person who was afraid to try new things. 3 years I just played the standard features in php. now i play a website server language in Codeigniter 4, or in Laravel.
+🌱 I started programming using php. Typing something in front of the computer makes me addicted to doing it. I used to be a person who was afraid to try new things. 3 years I just played the standard features in php. Now, I play a website server language in Codeigniter 4, or in Laravel.
 
-⚡ tried the front-end framework, I really like the JavaScript syntax especially Reactjs. React is easy to read and easy to understand for me.
+⚡ tried the front-end framework, I really like the JavaScript syntax especially ReactJs. React is easy to read and easy to understand for me.
 
-🤔 I'm trying to do a little bit of trouble in the native app section. It amazing for me😄. Java which is transformed into kotlin without a semicolon, it presents shortcodes. or Flutter with simple and easy UI writing for multiplatform.
+🤔 I'm trying to do a little bit of trouble in the Native App section, it amazing for me😄. Java which is transformed into Kotlin without a semicolon, it presents shortcodes. or Dart/Flutter with simple and easy UI writing for MultiPlatform.
 
-I like all of this. ❤
+I like all of this ❤.
 
 <!-- <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" height="15"> -->
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25) -->
