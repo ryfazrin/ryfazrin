@@ -16,7 +16,13 @@ I like all of this ❤.
 <!-- <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" height="15"> -->
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25) -->
 
-- 🙌 PHP, JavaScript, Java, Kotlin, Dart, TypeScript
+![PHP](https://img.shields.io/badge/-Php-181717?style=for-the-badge&logo=Php)
+![Js](https://img.shields.io/badge/-Javascript-181717?style=for-the-badge&logo=Javascript)
+![Ts](https://img.shields.io/badge/-Typescript-181717?style=for-the-badge&logo=Typescript)
+![Android](https://img.shields.io/badge/-Android-181717?style=for-the-badge&logo=Android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=Kotlin)
+![Dart](https://img.shields.io/badge/-Dart-181717?style=for-the-badge&logo=Dart)
+
 - 🍟 React, Flutter, Codeigniter, Laravel
 - 🍔 Tailwindcss, Material-Design
 
