@@ -1,11 +1,18 @@
 <div align="center">
  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" />
-</div>
 
-### Hi, I'm Pazrin 👋
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/muhammad-pazrin-andreanor-950824159/)
-[![My Notes](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://dinhanhthi.com/)](https://rywrite.vercel.app)
-<!-- [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi) -->
+<h1>Hello, I'm Pazrin 👋 </h1>
+ 
+ <a href="https://www.linkedin.com/in/muhammad-pazrin-andreanor-950824159/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/" alt="LinkedIn" />
+ </a>
+ <a href="https://rywrite.vercel.app">
+  <img src="https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://rywrite.vercel.app" alt="My Notes" />
+ </a>
+<!--  <a href="https://ko-fi.com/ryfazrin">
+  <img src="https://img.shields.io/badge/-Trakteer%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/ryfazrin" alt="Trakteer Coffee" />
+ </a> -->
+</div>
 
 Muhammad Pazrin Andreanor.
 
@@ -15,7 +22,7 @@ Muhammad Pazrin Andreanor.
 
 🤔 I'm trying to do a little bit of trouble in the Native App section, it amazing for me😄. Java which is transformed into Kotlin without a semicolon, it presents shortcodes. or Dart/Flutter with simple and easy UI writing for MultiPlatform.
 
-I like all of this ❤.
+## I like all of this ❤
 
 <!-- <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" height="15"> -->
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25) -->
