@@ -39,8 +39,16 @@ Muhammad Pazrin Andreanor.
 
 📫 How to reach me? riansera515@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryfazrin&layout=compact&hide_border=true&hide=html&langs_count=7&hide_title=true)](https://github.com/ryfazrin)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ryfazrin&hide_border=true&show_icons=true&include_all_commits=true&line_height=24&hide_title=true)](https://github.com/ryfazrin)
+<table align="center" border="0">
+ <tr>
+  <td>
+   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryfazrin&layout=compact&hide_border=true&hide=html&langs_count=7&hide_title=true)](https://github.com/ryfazrin" />
+  </td>
+  <td>
+   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=ryfazrin&hide_border=true&show_icons=true&include_all_commits=true&line_height=24&hide_title=true)](https://github.com/ryfazrin" />
+  </td>
+ </tr>
+</table>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ryfazrin"/>       
  𝚘𝚗𝚐𝚘𝚒𝚗𝚐...
