@@ -26,16 +26,21 @@ Muhammad Pazrin Andreanor.
 
 <!-- <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" height="15"> -->
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25) -->
+[![React](https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=React)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=javascript)
+[![Flutter](https://img.shields.io/badge/-Flutter-181717?style=for-the-badge&logo=Flutter)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=dart)
+[![Android](https://img.shields.io/badge/-Android-181717?style=for-the-badge&logo=Android)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=kotlin)
 
-[![PHP](https://img.shields.io/badge/-Php-181717?style=for-the-badge&logo=Php)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=php)
+[![Laravel](https://img.shields.io/badge/-Laravel-181717?style=for-the-badge&logo=Laravel)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=php)
+[![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-181717?style=for-the-badge&logo=Codeigniter)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=php)
+
+[![Dart](https://img.shields.io/badge/-Dart-181717?style=for-the-badge&logo=Dart)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=dart)
 [![Js](https://img.shields.io/badge/-Javascript-181717?style=for-the-badge&logo=Javascript)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=javascript)
 ![Ts](https://img.shields.io/badge/-Typescript-181717?style=for-the-badge&logo=Typescript)
-![Android](https://img.shields.io/badge/-Android-181717?style=for-the-badge&logo=Android)
+[![PHP](https://img.shields.io/badge/-Php-181717?style=for-the-badge&logo=Php)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=php)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=Kotlin)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=kotlin)
-[![Dart](https://img.shields.io/badge/-Dart-181717?style=for-the-badge&logo=Dart)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=dart)
 
-- 🍟 React, Flutter, Codeigniter, Laravel
-- 🍔 Tailwindcss, Material-Design
+![Tailwind](https://img.shields.io/badge/-Tailwind-181717?style=for-the-badge&logo=Tailwindcss)
+![Material](https://img.shields.io/badge/-Material-181717?style=for-the-badge&logo=MaterialDesign)
 
 📫 How to reach me? riansera515@gmail.com
 
