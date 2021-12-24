@@ -14,14 +14,6 @@
  </a> -->
 </div>
 
-Muhammad Pazrin Andreanor.
-
-🌱 I started programming using php. Typing something in front of the computer makes me addicted to doing it. I used to be a person who was afraid to try new things. 3 years I just played the standard features in php. Now, I play a website server language in Codeigniter 4, or in Laravel.
-
-⚡ tried the front-end framework, I really like the JavaScript syntax especially ReactJs. React is easy to read and easy to understand for me.
-
-🤔 I'm trying to do a little bit of trouble in the Native App section, it amazing for me😄. Java which is transformed into Kotlin without a semicolon, it presents shortcodes. or Dart/Flutter with simple and easy UI writing for MultiPlatform.
-
 ## I like all of this ❤
 
 <!-- <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" height="15"> -->
@@ -44,7 +36,6 @@ Muhammad Pazrin Andreanor.
 
 📫 How to reach me? riansera515@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryfazrin&layout=compact&hide_border=true&hide=html&langs_count=7&hide_title=true)](https://github.com/ryfazrin)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ryfazrin&hide_border=true&show_icons=true&include_all_commits=true&line_height=24&hide_title=true)](https://github.com/ryfazrin)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ryfazrin"/>       
