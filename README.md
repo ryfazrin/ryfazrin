@@ -9,12 +9,16 @@
  <a href="https://rywrite.vercel.app">
   <img src="https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://rywrite.vercel.app" alt="My Notes" />
  </a>
+
 <!--  <a href="https://ko-fi.com/ryfazrin">
   <img src="https://img.shields.io/badge/-Trakteer%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/ryfazrin" alt="Trakteer Coffee" />
  </a> -->
 </div>
 
-## I like all of this ❤
+### 🏫University
+Indonesia Digital Technology of University
+
+### ❤ all of this
 
 <!-- <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" height="15"> -->
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25) -->
