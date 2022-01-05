@@ -15,7 +15,12 @@
  </a> -->
 </div>
 
-### 🏫University
+### 👨‍💻 ongoing
+1 dari 100 Peserta yang terpilih untuk mengikuti Studi Independen Bersertifikat Kampus Merdeka x Dicoding
+
+Pengambangan Aplikasi Android & Multi-Platform menggunakan Kotlin dan Flutter. [Linkedin](https://www.linkedin.com/in/muhammad-pazrin-andreanor-950824159/)
+
+### 🏫 school
 Indonesia Digital Technology of University
 
 ### ❤ all of this
@@ -43,7 +48,6 @@ Indonesia Digital Technology of University
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ryfazrin&hide_border=true&show_icons=true&include_all_commits=true&line_height=24&hide_title=true)](https://github.com/ryfazrin)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ryfazrin"/>       
- 𝚘𝚗𝚐𝚘𝚒𝚗𝚐...
 
 <!--
 **ryfazrin/ryfazrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
