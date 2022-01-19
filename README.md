@@ -15,7 +15,7 @@
  </a> -->
 </div>
 
-### 👨‍💻 ongoing
+### 👨‍💻 experience
 1 dari 100 Peserta yang terpilih untuk mengikuti Studi Independen Bersertifikat Kampus Merdeka x Dicoding batch Pertama
 
 Pengambangan Aplikasi Android & Multi-Platform menggunakan Kotlin dan Flutter. [Linkedin](https://www.linkedin.com/in/muhammad-pazrin-andreanor-950824159/)
