@@ -1,7 +1,7 @@
 <div align="center">
- <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" />
+ 
 
-<h1>Hello, I'm Pazrin 👋 </h1>
+<h1>Hello, I'm Pazrin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h1>
  
  <a href="https://www.linkedin.com/in/muhammad-pazrin-andreanor-950824159/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/" alt="LinkedIn" />
