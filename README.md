@@ -36,7 +36,7 @@ Indonesia Digital Technology of University
 
 [![Dart](https://img.shields.io/badge/-Dart-181717?style=for-the-badge&logo=Dart)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=dart)
 [![Js](https://img.shields.io/badge/-Javascript-181717?style=for-the-badge&logo=Javascript)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=javascript)
-![Ts](https://img.shields.io/badge/-Typescript-181717?style=for-the-badge&logo=Typescript)
+<!-- ![Ts](https://img.shields.io/badge/-Typescript-181717?style=for-the-badge&logo=Typescript) -->
 [![PHP](https://img.shields.io/badge/-Php-181717?style=for-the-badge&logo=Php)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=php)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=Kotlin)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=kotlin)
 
