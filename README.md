@@ -2,13 +2,6 @@
  
 
 <h1>Hello, I'm Pazrin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h1>
- 
- <a href="https://www.linkedin.com/in/muhammad-pazrin-andreanor-950824159/">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/" alt="LinkedIn" />
- </a>
- <a href="https://rywrite.vercel.app">
-  <img src="https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://rywrite.vercel.app" alt="My Notes" />
- </a>
 
 <!--  <a href="https://ko-fi.com/ryfazrin">
   <img src="https://img.shields.io/badge/-Trakteer%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/ryfazrin" alt="Trakteer Coffee" />
@@ -49,7 +42,21 @@ Indonesia Digital Technology of University -->
 📫 How to reach me? riansera515@gmail.com
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ryfazrin&hide_border=true&show_icons=true&include_all_commits=true&line_height=24&hide_title=true)](https://github.com/ryfazrin)
+
 <div align="right">
+ 
+ ### 👇 Visit more:
+ 
+ <a href="https://linktr.ee/ryfazrin">
+  <img src="https://img.shields.io/badge/-linktree-grey?style=flat&logo=linktree&link=https://www.linkedin.com/in/dinhanhthi/" alt="linktree" />
+ </a>
+  <a href="https://rywrite.vercel.app">
+  <img src="https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://rywrite.vercel.app" alt="My Notes" />
+ </a>
+ <a href="https://www.linkedin.com/in/muhammad-pazrin-andreanor-950824159/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/" alt="LinkedIn" />
+ </a>
+ <br/>
  <img src="https://visitor-badge.laobi.icu/badge?page_id=ryfazrin"/>       
 </div>
 <!--
