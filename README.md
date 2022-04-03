@@ -13,7 +13,6 @@
 <!--  <a href="https://ko-fi.com/ryfazrin">
   <img src="https://img.shields.io/badge/-Trakteer%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/ryfazrin" alt="Trakteer Coffee" />
  </a> -->
-</div>
 
 <!-- ### 👨‍💻 experience
 1 dari 100 Peserta yang terpilih untuk mengikuti Studi Independen Bersertifikat Kampus Merdeka x Dicoding batch Pertama
@@ -23,15 +22,18 @@ Pengambangan Aplikasi Android & Multi-Platform menggunakan Kotlin dan Flutter. [
 ### 🏫 school
 Indonesia Digital Technology of University -->
 
-### ❤ all of this
-
 <!-- <img src="https://cdn.cdnlogo.com/logos/p/3/python.svg" height="15"> -->
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25) -->
+
+### ❤ all of this 
+
+[![Vue](https://img.shields.io/badge/-vue-181717?style=for-the-badge&logo=vue.js)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=javascript)
 [![React](https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=React)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=javascript)
-[![Flutter](https://img.shields.io/badge/-Flutter-181717?style=for-the-badge&logo=Flutter)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=dart)
-[![Android](https://img.shields.io/badge/-Android-181717?style=for-the-badge&logo=Android)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=kotlin)
 [![Laravel](https://img.shields.io/badge/-Laravel-181717?style=for-the-badge&logo=Laravel)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=php)
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-181717?style=for-the-badge&logo=Codeigniter)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=php)
+ 
+ [![Flutter](https://img.shields.io/badge/-Flutter-181717?style=for-the-badge&logo=Flutter)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=dart)
+[![Android](https://img.shields.io/badge/-Android-181717?style=for-the-badge&logo=Android)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=kotlin)
 
 [![Dart](https://img.shields.io/badge/-Dart-181717?style=for-the-badge&logo=Dart)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=dart)
 [![Js](https://img.shields.io/badge/-Javascript-181717?style=for-the-badge&logo=Javascript)](https://github.com/ryfazrin?tab=repositories&q=&type=&language=javascript)
@@ -41,13 +43,15 @@ Indonesia Digital Technology of University -->
 
 ![Tailwind](https://img.shields.io/badge/-Tailwind-181717?style=for-the-badge&logo=Tailwindcss)
 ![Material](https://img.shields.io/badge/-Material-181717?style=for-the-badge&logo=MaterialDesign)
+ 
+</div>
 
 📫 How to reach me? riansera515@gmail.com
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ryfazrin&hide_border=true&show_icons=true&include_all_commits=true&line_height=24&hide_title=true)](https://github.com/ryfazrin)
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ryfazrin"/>       
-
+<div align="right">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=ryfazrin"/>       
+</div>
 <!--
 **ryfazrin/ryfazrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
