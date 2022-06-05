@@ -1,7 +1,7 @@
 <div align="center">
  
 
-<h1>Hello, I'm Pazrin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h1>
+<h1>Hello, I'm Pazrin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50" alt="hi"> </h1>
 
 <!--  <a href="https://ko-fi.com/ryfazrin">
   <img src="https://img.shields.io/badge/-Trakteer%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/ryfazrin" alt="Trakteer Coffee" />
