@@ -1,7 +1,8 @@
 <h1>Hello, I'm Pazrin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50" alt="hi"> </h1>
 
 - 🔭 I’m currently Computer Science student 📝
-- 🌱 I’m currently using React, Next.js, Vue, & Flutter 💻
+- 🌱 Learn Data science and Machine Learning 🦾
+- 🧑‍💼 Work using React, Next.js, Vue, & Flutter 💻 
 
 📫 How to reach me? riansera515@gmail.com
 
