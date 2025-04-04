@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data science and Machine Learning 🦾
 - 🧑‍💼 working using React, Next.js, (Vue, Flutter & Laravel)  💻 
 
-📫 How to reach me? riansera515@gmail.com
+📫 How to reach me? muhammadpazrinandreanor@gmail.com
 
 <!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=ryfazrin&hide_border=true&show_icons=true&include_all_commits=true&line_height=24&hide_title=true)](https://github.com/ryfazrin) -->
 
